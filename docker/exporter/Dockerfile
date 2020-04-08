@@ -1,4 +1,4 @@
-FROM labgrid-base
+FROM nxpsemiconductor/labgrid-base
 
 COPY docker/exporter/entrypoint.sh /entrypoint.sh
 

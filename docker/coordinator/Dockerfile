@@ -1,4 +1,4 @@
-FROM labgrid-base
+FROM nxpsemiconductor/labgrid-base
 
 ENV CROSSBAR_DIR=/opt/crossbar
 

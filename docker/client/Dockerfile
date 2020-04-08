@@ -1,4 +1,4 @@
-FROM labgrid-base
+FROM nxpsemiconductor/labgrid-base
 
 RUN set -e ;\
     cd /opt/labgrid ;\
