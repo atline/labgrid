@@ -7,7 +7,7 @@ Welcome to labgrid
 |license| |unit-tests| |docker-build| |coverage-status| |docs-status| |chat| |calver|
 
 Labgrid is an embedded board control python library with a focus on testing, development
-and general automation.
+and general automation test.
 It includes a remote control layer to control boards connected to other hosts.
 
 * `Getting started <#Getting-started>`_
